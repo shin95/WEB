@@ -1,0 +1,157 @@
+.Menu{
+    height:50px ;
+    width: 1200px;
+    border: 1px solid black;
+    margin-top: auto;
+    margin-left: 67px;
+	background-color: #333;
+	
+}
+
+.menu-button{
+    height: 50px;
+    width: 100px; 
+    border: 1px solid black;
+    float: left;
+}
+
+.menu-button h3{
+    color: #eaeaea;
+    text-align: center;
+}
+
+.menu-button:hover {
+        background-color: #222881;
+        
+}  
+
+
+
+
+.header{
+	width  : 1200px;
+	height : 200px;
+	margin : 10px auto;
+	border : 1px solid black;
+
+}
+
+.header img{
+    height: 190px;
+    width: 1200px;
+    background-size: cover;
+    border-top: 5px solid gold;
+    border-bottom: 5px solid gold;       
+}
+.body{
+	width  : 1200px;
+	height : 800px;
+	margin : 10px auto;
+}
+.sidebar{
+	width  : 180px;
+	height : 800px;
+	float  : left;
+	/* border : 1px solid black; */
+	
+
+}
+.artikel{
+	width  : 1000px;
+	height : 800px;
+	float  : right;
+}
+.artikel1{
+	width  : 1000px;
+	height : 200px;
+	float  : right;
+	margin : auto;
+}
+.artikeldalam1{
+	width  : 150px;
+	height : 200px;
+	float  : right;
+	margin : auto;
+}
+
+.artikeldalam1 img{
+	width  : 150px;
+	height : 200px;
+}
+
+.artikeldalam2{
+	width  : 830px;
+	height : 200px;
+	float  : left;
+	
+	margin : auto;
+}
+
+.artikeldalam3{
+	width  : 150px;
+	height : 200px;
+	float  : right;
+	/* border : 1px solid black; */
+	margin : auto;
+}
+
+.artikeldalam3 img{
+	width  : 150px;
+	height : 200px;
+}
+.artikeldalam4{
+	width  : 830px;
+	height : 200px;
+	float  : left;
+	margin : auto;
+}
+
+.artikeldalam5{
+	width  : 150px;
+	height : 290px;
+	float  : right;
+	border : 1px solid black;
+	margin : auto;
+}
+.artikeldalam6{
+	width  : 830px;
+	height : 290px;
+	float  : left;
+	border : 1px solid black;
+	margin : auto;
+}
+.artikel2{
+	width  : 1000px;
+	height : 200px;
+	float  : right;
+	margin : 20px auto;
+}
+.artikel3{
+	width  : 1000px;
+	height : 290px;
+	float  : right;
+	margin : 20px auto;
+}
+.footer{
+	width  : 1200px;
+	height : 200px;
+	margin : 10px auto;
+	border : 1px solid black;
+	background-color: #333;
+}
+
+.footer .copy{
+    color: #eaeaea;
+    text-align: center;
+    font-size: 20px;
+	font-weight: bold;
+	
+}  
+
+.footer p{
+    text-align: center;
+    color: #eaeaea; 
+    font-weight: bold;
+    font-size: 20px;
+    
+}
